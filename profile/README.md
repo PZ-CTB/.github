@@ -1,0 +1,19 @@
+# Crypto Trading Bot
+- [Backend](https://github.com/PZ-CTB/ctb-backend)
+- [Frontend](https://github.com/PZ-CTB/ctb-frontend)
+
+## Authors
+- Team leader: [Adam Łaba](https://github.com/unlvy)
+- Backend:
+  - Backend leader (model): [Paweł Bielecki](https://github.com/pawel2000pl)
+  - Backend leader (server): [Aleksander Kluczka](https://github.com/vis4rd)
+  - [Piotr Deda](https://github.com/PiotrDeda)
+  - [Kacper Osuch](https://github.com/uNBEx)
+  - [Mikołaj Sondej](https://github.com/mik-sondej)
+  - [Rafał Walkowiak](https://github.com/rafalw99)
+- Frontend:
+  - Frontend leader: [Krystian Śledź](https://github.com/krystiansledz)
+  - [Mirosław Kołodziej](https://github.com/mirek0707)
+  - [Jakub Kraśniak](https://github.com/sakor88)
+  - [Wiktor Urban](https://github.com/BlabberMobsterYeast)
+- Robotic pet: [CTB Deployer](https://github.com/CTB-Deployer)
